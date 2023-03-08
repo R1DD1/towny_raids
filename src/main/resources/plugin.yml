@@ -1,0 +1,5 @@
+name: FrameRaid
+version: '${version}'
+main: net.framedev.raid.frameraid.FrameRaid
+commands:
+  raid:
